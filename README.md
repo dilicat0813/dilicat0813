@@ -1,4 +1,9 @@
-### Hi there 👋
+# Who am I?
+
+# Learning
+
+# Private play
+
 
 
 - 🌱 I’m currently learning ...
