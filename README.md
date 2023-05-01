@@ -2,11 +2,9 @@
 
 # Learning about Data-Engineering
 - Alpaco Data-Engineering Course (23.3. ~ 23.8.)
-  - Python(+ML/DL & Dash), R, RPA
+  - Python(+ML/DL & Dash), SQL, R, RPA
 
-# Private play
-- OCR(tesseract)
-- 
+
 
 
 - 🌱 I’m currently learning ...
